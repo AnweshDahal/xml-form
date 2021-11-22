@@ -1,0 +1,10 @@
+D:\Personal Projects\C#\XMLForm\XMLForm\bin\Debug\XMLForm.exe.config
+D:\Personal Projects\C#\XMLForm\XMLForm\bin\Debug\XMLForm.exe
+D:\Personal Projects\C#\XMLForm\XMLForm\bin\Debug\XMLForm.pdb
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.csprojAssemblyReference.cache
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.Form1.resources
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.Properties.Resources.resources
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.csproj.GenerateResource.cache
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.csproj.CoreCompileInputs.cache
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.exe
+D:\Personal Projects\C#\XMLForm\XMLForm\obj\Debug\XMLForm.pdb

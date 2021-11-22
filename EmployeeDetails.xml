@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfEmployeeDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeDetails>
+    <ID>123</ID>
+    <Name>Anwesh</Name>
+    <Department>XYZ</Department>
+    <Designation>XYZ</Designation>
+    <Salary>12345</Salary>
+    <JoinedDate>2021-11-12T00:00:00</JoinedDate>
+    <ContactNumber>9876543210</ContactNumber>
+    <Address>Sumwere</Address>
+    <MaritalStatus>X</MaritalStatus>
+    <Age>22</Age>
+  </EmployeeDetails>
+  <EmployeeDetails>
+    <ID>456</ID>
+    <Name>Sum Juan</Name>
+    <Department>IT</Department>
+    <Designation>Software Engineer</Designation>
+    <Salary>100000</Salary>
+    <JoinedDate>2021-11-11T00:00:00</JoinedDate>
+    <ContactNumber>9876543210</ContactNumber>
+    <Address>Sumwere</Address>
+    <MaritalStatus>Married</MaritalStatus>
+    <Age>22</Age>
+  </EmployeeDetails>
+</ArrayOfEmployeeDetails>
